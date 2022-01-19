@@ -1,4 +1,4 @@
 class xyz
 {
-
+   sop("Hi");
 }
